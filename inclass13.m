@@ -1,4 +1,14 @@
 %Inclass 13
+%GB comments
+1a 100
+1b 100
+1c 100
+1d 100
+2a 100
+2b 100
+2c 100
+overall: 100
+
 
 %Part 1. In this directory, you will find an image of some cells expressing a 
 % fluorescent protein in the nucleus. 
